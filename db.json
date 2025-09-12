@@ -1,0 +1,54 @@
+{
+  "orders": [
+    {
+      "id": 101,
+      "orderId": 101,
+      "customerName": "Alice Johnson",
+      "orderDate": "2024-04-20T00:00:00.000Z",
+      "status": "shipped",
+      "totalAmount": 150.75,
+      "items": [
+        {
+          "productId": "P1001",
+          "productName": "Wireless Mouse",
+          "quantity": 1,
+          "price": 25.5
+        },
+        {
+          "productId": "P1002",
+          "productName": "Mechanical Keyboard",
+          "quantity": 10,
+          "price": 125.25
+        }
+      ],
+      "shippingAddress": {
+        "street": "123 Maple St",
+        "city": "Springfield",
+        "state": "IL",
+        "zipCode": "62704"
+      }
+    },
+    {
+      "id": 102,
+      "orderId": 102,
+      "customerName": "Bob Smith",
+      "orderDate": "2024-05-01T00:00:00.000Z",
+      "status": "processing",
+      "totalAmount": 2.5,
+      "items": [
+        {
+          "productId": "P1003",
+          "productName": "Mouse mat",
+          "quantity": 1,
+          "price": 2.5
+        }
+      ],
+      "shippingAddress": {
+        "street": "123 Test St",
+        "city": "Testfield",
+        "state": "TS",
+        "zipCode": "12345"
+      }
+    }
+  ]
+}
