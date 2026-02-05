@@ -110,5 +110,8 @@
         "zipCode": "97205"
       }
     }
-  ]
+  ],
+  "test": {
+    "status": "completed"
+  }
 }
