@@ -111,7 +111,26 @@
       }
     }
   ],
-  "test": {
-    "status": "completed"
+  "mockResponse1": {
+    "partExchangeId": "PX123456",
+    "status": "pending",
+    "car": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2018,
+      "vin": "1HGCM82633A004352"
+    },
+    "estimatedValue": 7500,
+    "lastUpdated": "2026-01-02T14:35:00Z"
+  },
+  "mockResponse2": {
+    "applicationId": "APP789012",
+    "status": "approved",
+    "applicant": "Jane Doe",
+    "car": "Honda Civic 2022",
+    "loanAmount": 15000,
+    "termMonths": 36,
+    "monthlyPayment": 442.67,
+    "lastUpdated": "2025-01-03T15:20:00Z"
   }
 }
