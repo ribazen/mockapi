@@ -133,4 +133,8 @@
     "monthlyPayment": 442.67,
     "lastUpdated": "2025-01-03T15:20:00Z"
   }
+  "mockResponse3": {
+    "mot_status": "pass",
+    "hpi_status": "fail"
+  }  
 }
