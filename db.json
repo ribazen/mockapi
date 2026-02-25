@@ -110,5 +110,9 @@
         "zipCode": "97205"
       }
     }
-  ]
+  ],
+  "mockResponse3": {
+    "mot_status": "pass",
+    "hpi_status": "fail"
+  }    
 }
