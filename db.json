@@ -114,5 +114,9 @@
   "mockResponse3": {
     "mot_status": "fail",
     "hpi_status": "pass"
-  }    
+  },
+  "mockResponse4": {
+    "mot_status": "pass",
+    "hpi_status": "pass"
+  }
 }
