@@ -112,7 +112,7 @@
     }
   ],
   "mockResponse3": {
-    "mot_status": "pass",
-    "hpi_status": "fail"
+    "mot_status": "fail",
+    "hpi_status": "pass"
   }    
 }
