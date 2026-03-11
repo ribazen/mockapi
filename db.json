@@ -118,5 +118,8 @@
   "mockResponse4": {
     "mot_status": "pass",
     "hpi_status": "pass"
+  },
+  "mockResponse5": {
+    "result": true
   }
 }
