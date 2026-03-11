@@ -117,7 +117,8 @@
   },
   "mockResponse4": {
     "mot_status": "pass",
-    "hpi_status": "pass"
+    "hpi_status": "pass",
+    "result": "success"
   },
   "mockResponse5": {
     "result": true
